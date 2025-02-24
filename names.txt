@@ -1,0 +1,1 @@
+hello text for remote git by command prompt

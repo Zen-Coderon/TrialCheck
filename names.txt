@@ -1,1 +1,1 @@
-hello text for remote git by command prompt
+hello text for remote git by command prompt, in the 2nd change.
